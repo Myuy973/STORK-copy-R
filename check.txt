@@ -1,0 +1,3 @@
+・modalとsmallとの間のアーカイブのinput
+・タグの配置
+・slickのcss

@@ -1,0 +1,30 @@
+4/21
+//top-bar
+・トップの画像はpaddingbottom
+・mainbarはmargin-auto それが埋まったら上の余白をなくす
+・トップのsearchはモーダル
+・main上のmargin-topは一定
+	//アニメーションについて（読み込まれ時）
+	・mainbarはopacity
+	・画像の文字は上は上から
+	下の文字とボタンは下からのスライド
+	・要素の上までスクロールしたらアニメーション
+	・カテゴリー、レベル１のみheight:toggle
+
+//contant
+・contantはmargin-auto
+中身はflex
+・記事はhoverすると左右にエフェクト
+多分before,afterで拡大すれば生ける
+・右上の広告は左寄せ
+・QRはmargin-autoで配置
+・右下の広告はスクロールによって配置移動（上下に）
+
+//fotter
+・1:1:1の比率
+・２段になったら上は1:1
+下は要素と空白で1:1
+最後はreverseで左右反転
+
+・returnは上下移動
+・出現位置は上から400px
